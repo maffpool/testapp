@@ -1,0 +1,14 @@
+{
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:maffpool/testlib.git"
+        }
+    ],
+
+    "require": {
+        "maffpool/testlib": "~1.0"
+    }
+}
+
